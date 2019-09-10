@@ -1,5 +1,5 @@
 # adonis-setup
-Rqueirement and installation Adonis JS
+Adonis JS configuration and setup
 
 # Adonis fullstack application
 
